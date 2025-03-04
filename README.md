@@ -1,4 +1,4 @@
-# Text-To-Search: Intelligent Information Retrieval System
+# Text-To-Search: Information Retrieval System
 
 > Powerful document indexing and search capabilities with advanced ranking algorithms for precise information retrieval.
 
