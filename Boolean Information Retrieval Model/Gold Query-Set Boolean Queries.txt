@@ -1,0 +1,19 @@
+Example Query: cancer AND learning 
+
+Example Query:  transformer AND model 
+
+Example Query: transformer OR model 
+
+Example Query: NOT model 
+
+Example Query: heart AND attack 
+
+Example Query: heart 
+
+Example Query: feature AND selection AND redundancy
+
+Example Query: feature AND selection AND classification 
+
+Example Query: NOT classification  AND NOT feature 
+
+Example Query: tubing 
